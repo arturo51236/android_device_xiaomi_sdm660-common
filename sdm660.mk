@@ -605,5 +605,5 @@ PRODUCT_PACKAGES += \
     PixelLiveWallpaperPrebuilt
 
 # XiaomiParts
-#PRODUCT_PACKAGES += \
-#   XiaomiParts
+PRODUCT_PACKAGES += \
+   XiaomiParts
